@@ -27,7 +27,7 @@ Dans ce projet vous trouverez :
 
 ### Résulats
 
-Partie 1 : Analayse du dataset
+#### Partie 1 : Analayse du dataset
 * Les âges les plus représentés dans le dataset sont les jeunes : 18 24 ans et les 25 34 ans
 * Les personnes blanches sont sur représentées par rapport aux autres
 * Les personnes provenant de l'Angleterre (UK) sont sur-représentés également
@@ -37,20 +37,20 @@ Nous avons pu faire des liens intéressantes entre consommations de stupéfiants
 Exemples : L'alcool est le plus consommé chez les personnes ayant quitté l'école avant 16 ans et la nicotine est le plus consommé chez les personnes ayant quitté l'école à 18 ans ou encore le cannabis est moins consommé chez les personnes ayant quittél'école à 16 ans et le plus chez les personnes ayant un diplome.
 
 
-Partie 2 : Modèles de classification
+#### Partie 2 : Modèles de classification
 
-Modèles testés : 
+#### Modèles testés : 
 * Logistic Regression 
 * KNeighbors Classification
 * Random Forest
 * SVC
 * Decision Tree
 
-*1ere classification : prédire la consommation d'alcool d'une personne en connaissant les résultats des tests de personnalités la concernant ainsi que sa consommation d'autres substances
+#### 1ere classification : prédire la consommation d'alcool d'une personne en connaissant les résultats des tests de personnalités la concernant ainsi que sa consommation d'autres substances
 
 Meilleure précision obtenue : 0,40 avec SVC
 
-*2ème classification : prédire la consommation de Cannabis grâce aux données sur la personnalité
+#### 2ème classification : prédire la consommation de Cannabis grâce aux données sur la personnalité
 
 Meilleure précision obtenue : 0,78 avec SVC
 
@@ -59,9 +59,5 @@ Meilleure précision obtenue : 0,78 avec SVC
 Ainsi, ce dataset ne nous donnera pas une idée réaliste de la consommation mondiale puisque les pays du monde ne sont pas bien représentés mais plutôt une idée de la consommation aux USA et UK, et il permet aussi de faire des liens avec la personnalité qui sont réalistes.
 
 Nous avons eu plaisir à faire ce projet, nous esperons que nos analyses vous plairont ! :grinning:
-
-
-
-
 
 
