@@ -27,7 +27,7 @@ Dans ce projet vous trouverez :
 
 ### Résulats
 
-#### Partie 1 : Analayse du dataset
+#### Partie 1 : Analyse du dataset
 * Les âges les plus représentés dans le dataset sont les jeunes : 18 24 ans et les 25 34 ans
 * Les personnes blanches sont sur représentées par rapport aux autres
 * Les personnes provenant de l'Angleterre (UK) sont sur-représentés également
@@ -53,6 +53,11 @@ Meilleure précision obtenue : 0,40 avec SVC
 #### 2ème classification : prédire la consommation de Cannabis grâce aux données sur la personnalité
 
 Meilleure précision obtenue : 0,78 avec SVC
+
+#### Partie 3 : API Flask
+
+Nous avons utilisé le modèle SVR dans le cadre de la 2ème classification pour prédire à partir des données en entrée la tendance qu'aurait la personne à être consommateur ou non de Cannabis.
+Vous trouverez des screens de l'application dans la toute fin de notre présentations PDF.
 
 
 ### Conclusion
